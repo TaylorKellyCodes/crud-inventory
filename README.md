@@ -6,8 +6,11 @@ This is an app that I can use to monitor how much inventory I have for my small 
 
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-Link to project: [![Inventory-1.jpg](https://i.postimg.cc/KvP6Ky1J/Inventory-1.jpg)](https://postimg.cc/XpvHhmcC)
-
+Links to project: 
+Screenshots:
+[![Inventory-1.jpg](https://i.postimg.cc/KvP6Ky1J/Inventory-1.jpg)](https://postimg.cc/XpvHhmcC)
+[![Inventory-2.jpg](https://i.postimg.cc/K8QCNrrT/Inventory-2.jpg)](https://postimg.cc/LJYy4PW4)
+[![Inventory-3.jpg](https://i.postimg.cc/vZGpfS9M/Inventory-3.jpg)](https://postimg.cc/mt6XGj86)
 alt tag
 
 How It's Made:
