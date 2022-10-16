@@ -6,7 +6,7 @@ This is an app that I can use to monitor how much inventory I have for my small 
 
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-Link to project: http://recruiters-love-seeing-live-demos.com/
+Link to project: [![Inventory-1.jpg](https://i.postimg.cc/KvP6Ky1J/Inventory-1.jpg)](https://postimg.cc/XpvHhmcC)
 
 alt tag
 
