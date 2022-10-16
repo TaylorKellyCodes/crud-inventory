@@ -1,6 +1,6 @@
-Rigid Insulation Inventory App
+#Rigid Insulation Inventory App
 
-This is an app that I can use to monitor how much inventory I have for my small business at each of my 3 locations. I sell building supplies and I have business partners that are eager to take over more responsibility. I have a location in Durham NC, Concord NC, and Greensboro NC. This helps me keep the numbers all in the same place and when I choose to let my business partners take over more of the business, it will allow me a more hands-off approach while still being able to check in anytime, anyplace.
+##This is an app that I can use to monitor how much inventory I have for my small business at each of my 3 locations. I sell building supplies and I have business partners that are eager to take over more responsibility. I have a location in Durham NC, Concord NC, and Greensboro NC. This helps me keep the numbers all in the same place and when I choose to let my business partners take over more of the business, it will allow me a more hands-off approach while still being able to check in anytime, anyplace.
 
 
 Link to project: (Coming soon, researching the best back-end service to use to host.)
