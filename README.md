@@ -13,7 +13,7 @@ This is an app that I can use to monitor how much inventory I have for my small 
 
 ### How It's Made:
 
-## Tech used: JavaScript, Node.js, MongoDB, Cloudinary, Multer, Passport for authentication, bcrypt, MVC Architecture, Bootstrap, HTML, and CSS.
+## Tech used: JavaScript, Node.js, MongoDB, Cloudinary, Multer, Passport.js, bcrypt, MVC Architecture, Bootstrap, HTML, and CSS.
 
 This is a CRUD application with full Create, Read, Update, and Delete capabilities. You can make an account with any username and password and it will save them to your computer. This ensures you can stay logged in if you exit out of the window and come back to the application.
 
@@ -27,7 +27,7 @@ I would like to add different profiles, like an admin profile for me that would 
 
 ### Lessons Learned:
 
-This is my first personal CRUD app, and it won't be my last. I like how flexible it can be based on what you want to do with it. Nothing feels better than writing routes and having them work for the first time. Also, thank goodness for Multer, bcrypt, and Google Passport. I love being able to leverage these middlewares to do more work and since I have access to these free tools, I was able to save a lot of time.
+This is my first personal CRUD app, and it won't be my last. I like how flexible it can be based on what you want to do with it. Nothing feels better than writing routes and having them work for the first time. Also, thank goodness for Multer, bcrypt, and Passport.js. I love being able to leverage these middlewares to do more work and since I have access to these free tools, I was able to save a lot of time.
 
 ### How to run:
 
